@@ -1,5 +1,5 @@
 # Guidebook.CSS.Bakemono
-Le CSS de mon guidebook
+Le CSS de mon guidebook 
   /*** ROOT 
  *** Tutoriel pour utiliser les variables
  *** https://blankthemerpg.forumactif.com/t139-utiliser-les-variables-css ***/
